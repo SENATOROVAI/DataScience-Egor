@@ -1,2 +1,1 @@
-
-## [Log](/log.ipynb)
+# Data Science Egor.
